@@ -24,11 +24,10 @@ CSV File for Pre-building the table used to map Lat/Long -> NYC Boroughs, called
 
 
 ### Key Findings Summary
-
-*CitiBike traffic is highly seasonal, with peaks matching up to good weather and daily commute behaviors.
-*There is ample room for growth with flexible pricing and promotions to incentivize additional rides. Bikes are available 24/7, so there is often more supply than demand during off-peak times.
-*To forecast, we should start with historical data patterns split by weekday vs. weekend, then build in additional factors like user traits as forcast accuracy improves. 
-*As a first effort to apply dynamic pricing, we should implement custom discounting based on relative traffic patterns. High traffic times receive no discount, but low traffic times receive a proportional discount to the traffic they generate vs. the peak time. 
+* CitiBike traffic is highly seasonal, with peaks matching up to good weather and daily commute behaviors.
+* There is ample room for growth with flexible pricing and promotions to incentivize additional rides. Bikes are available 24/7, so there is often more supply than demand during off-peak times.
+* To forecast, we should start with historical data patterns split by weekday vs. weekend, then build in additional factors like user traits as forcast accuracy improves. 
+* As a first effort to apply dynamic pricing, we should implement custom discounting based on relative traffic patterns. High traffic times receive no discount, but low traffic times receive a proportional discount to the traffic they generate vs. the peak time. 
 
 ### Details (Based on Task Numbers)
 
