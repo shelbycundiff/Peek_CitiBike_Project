@@ -20,7 +20,7 @@ https://www.reddit.com/r/SQL/comments/1etv7z2/need_help_calculating_user_streaks
 Google BigQuery for editing queries
 Google Sheets for additional analysis
 Google Slides for presentation
-Text Files for Pre-building the table used to map Lat/Long -> NYC Boroughs, called "citibike_additional_data.nyc_borough_mapping" 
+CSV File for Pre-building the table used to map Lat/Long -> NYC Boroughs, called "citibike_additional_data.nyc_borough_mapping" 
 
 
 ### Key Findings Summary
