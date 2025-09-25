@@ -11,7 +11,6 @@
 3. Build out a forcast based on learnings in #2.
 4. Apply forcast and analysis findings to a pricing strategy ideation session
 
-5. Testing Adding
 
 
 
