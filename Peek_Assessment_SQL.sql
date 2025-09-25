@@ -1,5 +1,5 @@
 ###############################################
-
+--testing out edits of this file 
 --Exploratory Queries to Understand Data
 
 --is the station table distinct or does it update each station frequently?
@@ -11,8 +11,8 @@ order by 2 desc;
 --what are the different region_ids?
 
 select distinct name, region_id from `bigquery-public-data.new_york_citibike.citibike_stations`
-
 ;
+
 
 --what are the rental_methods?
 select distinct rental_methods from `bigquery-public-data.new_york_citibike.citibike_stations`
